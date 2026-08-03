@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mayankk119/leetcode/tree/master/0031-next-permutation) |
 | [1406-stone-game-iii](https://github.com/mayankk119/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mayankk119/leetcode/tree/master/1406-stone-game-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/mayankk119/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
