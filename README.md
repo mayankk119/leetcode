@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mayankk119/leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/mayankk119/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/mayankk119/leetcode/tree/master/0010-regular-expression-matching) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayankk119/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayankk119/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
