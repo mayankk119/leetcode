@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankk119/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/mayankk119/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/mayankk119/leetcode/tree/master/0031-next-permutation) |
 | [1140-stone-game-ii](https://github.com/mayankk119/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mayankk119/leetcode/tree/master/1406-stone-game-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mayankk119/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/mayankk119/leetcode/tree/master/0031-next-permutation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayankk119/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mayankk119/leetcode/tree/master/0011-container-with-most-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayankk119/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayankk119/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
