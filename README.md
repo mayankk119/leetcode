@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mayankk119/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayankk119/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mayankk119/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mayankk119/leetcode/tree/master/0013-roman-to-integer) |
 | [1140-stone-game-ii](https://github.com/mayankk119/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mayankk119/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mayankk119/leetcode/tree/master/1510-stone-game-iv) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mayankk119/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/mayankk119/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/mayankk119/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mayankk119/leetcode/tree/master/0013-roman-to-integer) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayankk119/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayankk119/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayankk119/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mayankk119/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mayankk119/leetcode/tree/master/0013-roman-to-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankk119/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankk119/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/mayankk119/leetcode/tree/master/3731-find-missing-elements) |
