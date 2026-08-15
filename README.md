@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankk119/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mayankk119/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mayankk119/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mayankk119/leetcode/tree/master/0031-next-permutation) |
 | [1140-stone-game-ii](https://github.com/mayankk119/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mayankk119/leetcode/tree/master/1406-stone-game-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankk119/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mayankk119/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mayankk119/leetcode/tree/master/0031-next-permutation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayankk119/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mayankk119/leetcode/tree/master/0015-3sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankk119/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/mayankk119/leetcode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
