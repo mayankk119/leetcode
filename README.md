@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mayankk119/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mayankk119/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mayankk119/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/mayankk119/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayankk119/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankk119/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayankk119/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mayankk119/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayankk119/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayankk119/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1927-sum-game](https://github.com/mayankk119/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayankk119/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayankk119/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayankk119/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mayankk119/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mayankk119/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mayankk119/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/mayankk119/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayankk119/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankk119/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/mayankk119/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/mayankk119/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayankk119/leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayankk119/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayankk119/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
